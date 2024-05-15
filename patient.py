@@ -5,7 +5,7 @@ from matplotlib.ticker import FuncFormatter
 import pandas as pd
 from streamlit_option_menu import option_menu 
 import numpy as np
-from local_components import card_container
+# from local_components import card_container
 
 def app():
         st.title('COVID-19 ANALYSIS')
